@@ -2,7 +2,7 @@
   "versionCode": 4,
   "versionName": "1.2.1",
   "apkUrl": "",
-  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.2.1/MiTV-arm64-v8a-debug.apk",
-  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.2.1/MiTV-armeabi-v7a-debug.apk",
-  "releaseNotes": "Soporte para múltiples arquitecturas."
+  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.3.0/MiTV-arm64-v8a-debug.apk",
+  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.3.0/MiTV-armeabi-v7a-debug.apk",
+  "releaseNotes": "MiTV v1.3.0 - Optimizada y Segura. Para mas informacion visita el repositorio oficial (https://github.com/Misterreme/.MiTV)"
 }
