@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
+  "versionCode": 5,
+  "versionName": "1.3.0",
   "apkUrl": "",
   "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.3.0/MiTV-arm64-v8a-debug.apk",
   "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.3.0/MiTV-armeabi-v7a-debug.apk",
