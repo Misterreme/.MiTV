@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.0",
+  "versionCode": 6,
+  "versionName": "1.4.0",
   "apkUrl": "",
-  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.3.0/MiTV-arm64-v8a-debug.apk",
-  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.3.0/MiTV-armeabi-v7a-debug.apk",
-  "releaseNotes": "MiTV v1.3.0 - Optimizada y Segura. Para mas informacion visita el repositorio oficial (https://github.com/Misterreme/.MiTV)"
+  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.4.0/MiTV-arm64-v8a-debug.apk",
+  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.4.0/MiTV-armeabi-v7a-debug.apk",
+  "releaseNotes": "MiTV v1.4.0 (6) - Implementación de Splash Screen oficial para eliminar la pantalla blanca al inicio. Nuevo sistema de notificaciones de error cíclicas (20s visible / 5s oculto) con mensajes específicos para fallos de red, servidor, autenticación y líneas sin canales. Mejoras de estabilidad en el arranque y optimización de inicialización. Para mas informacion visita el repositorio oficial (https://github.com/Misterreme/.MiTV)"
 }
