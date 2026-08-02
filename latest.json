@@ -2,7 +2,7 @@
   "versionCode": 8,
   "versionName": "1.4.2",
   "apkUrl": "",
-  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.4./MiTV-arm64-v8a-debug.apk",
-  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.4./MiTV-armeabi-v7a-debug.apk",
-  "releaseNotes": "Corrección del icono del Splash Screen (evita el recorte circular), Mejoras en el sistema de manejo de errores (notificaciones cíclicas 20s/5s y limpieza automática al cargar datos)."
+  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.4.2/MiTV-arm64-v8a-debug.apk",
+  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.4.2/MiTV-armeabi-v7a-debug.apk",
+  "releaseNotes": "v1.4.2: Optimización extrema de fluidez, zapping con aceleración dinámica, mejoras de sesión y corrección del logo inicial."
 }
