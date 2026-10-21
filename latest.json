@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
+  "versionCode": 2,
+  "versionName": "1.0.1",
   "apkUrl": "",
-  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.0/MiTV-arm64-v8a-debug.apk",
-  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.0/MiTV-armeabi-v7a-debug.apk",
-  "releaseNotes": "Versión 1.0.0 (Release): Despliegue inicial de la aplicación. Todas las funcionalidades core han sido implementadas, probadas y conectadas a los entornos de producción con éxito"
+  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.1/MiTV-arm64-v8a-debug.apk",
+  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.1/MiTV-armeabi-v7a-debug.apk",
+  "releaseNotes": "Actualización v1.0.1: Pequeña actualización para corregir un par de problemas al momento de iniciar sesión y validar el estado de tu cuenta. Te recomendamos actualizar para seguir disfrutando de la mejor estabilidad."
 }
