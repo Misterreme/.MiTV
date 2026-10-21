@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.3",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "apkUrl": "",
-  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/V1.4.3/MiTV-arm64-v8a-debug.apk",
-  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/V1.4.3/MiTV-armeabi-v7a-debug.apk",
-  "releaseNotes": "v1.4.3: Refinamientos estéticos, títulos en azul, previsualización de canales con logo y mejoras de navegación en el login."
+  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.0/MiTV-arm64-v8a-debug.apk",
+  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.0/MiTV-armeabi-v7a-debug.apk",
+  "releaseNotes": "Versión 1.0.0 (Release): Despliegue inicial de la aplicación. Todas las funcionalidades core han sido implementadas, probadas y conectadas a los entornos de producción con éxito"
 }
