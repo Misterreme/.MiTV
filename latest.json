@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.2.1",
   "apkUrl": "",
-  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.2/MiTV-arm64-v8a-debug.apk",
-  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/v1.0.2/MiTV-armeabi-v7a-debug.apk",
-  "releaseNotes": "¡Nueva versión 1.0.2 disponible! - Nuevo panel de Configuración Global (tamaño de texto, idioma/calidad preferida, cambio de PIN +18 y diagnóstico de red), selector de calidad HD/SD sin cambiar de canal, normalización automática de volumen entre canales, corrección de sincronía de audio en Español/Inglés, búfer en vivo de 5 minutos estable en sesiones largas, guía EPG mejorada en tiempo real y control de brillo compatible con Fire Stick y Android TV."
+  "apkUrlArm64": "https://github.com/Misterreme/.MiTV/releases/download/v1.2.1/MiTV-arm64-v8a-debug.apk",
+  "apkUrlArmV7": "https://github.com/Misterreme/.MiTV/releases/download/v1.2.1/MiTV-armeabi-v7a-debug.apk",
+  "releaseNotes": "Versión 1.2.1 - Solución a cierres y congelamientos al iniciar la app optimizando la carga de guía EPG en la lista de canales, reapertura automática y botones mejorados en el modal de actualización, ajuste visual del contenedor de login y medición precisa de latencia en el diagnóstico de red."
 }
